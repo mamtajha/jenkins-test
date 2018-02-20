@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1519148317,,"wq!"
+|2,0,1519149593,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,20 +23,61 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	MAMTA
+|3,1,1,1,1,0,1519149564,"MAMTA"
 
 # File marks:
-'0  1  18  ~/test
-|4,48,1,18,1519148317,"~/test"
-'1  2  21  ~/jenkins-test/README.md
-|4,49,2,21,1519147868,"~/jenkins-test/README.md"
+'0  2  8  ~/test
+|4,48,2,8,1519149593,"~/test"
+'1  1  0  ~/test
+|4,49,1,0,1519149567,"~/test"
+'2  1  0  ~/test
+|4,50,1,0,1519149567,"~/test"
+'3  1  18  ~/test
+|4,51,1,18,1519148317,"~/test"
+'4  1  18  ~/test
+|4,52,1,18,1519148317,"~/test"
+'5  2  21  ~/jenkins-test/README.md
+|4,53,2,21,1519147868,"~/jenkins-test/README.md"
 
 # Jumplist (newest first):
+-'  2  8  ~/test
+|4,39,2,8,1519149593,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1519149585,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1519149567,"~/test"
 -'  1  18  ~/test
 |4,39,1,18,1519148317,"~/test"
 -'  2  21  ~/jenkins-test/README.md
 |4,39,2,21,1519147868,"~/jenkins-test/README.md"
 -'  2  21  ~/jenkins-test/README.md
 |4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  2  21  ~/jenkins-test/README.md
+|4,39,2,21,1519147868,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
+-'  1  0  ~/jenkins-test/README.md
+|4,39,1,0,1519147854,"~/jenkins-test/README.md"
 -'  1  0  ~/jenkins-test/README.md
 |4,39,1,0,1519147854,"~/jenkins-test/README.md"
 -'  1  0  ~/jenkins-test/README.md
@@ -45,11 +86,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/test
-	*	1519148316	0
-	"	1	18
-	^	1	19
-	.	1	18
+	*	1519149592	0
+	"	2	8
+	^	2	9
+	.	2	8
 	+	1	18
+	+	2	8
 
 > ~/jenkins-test/README.md
 	*	1519147867	0
